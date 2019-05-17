@@ -9,10 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>come.eurekaclient</groupId>
-	<artifactId>come.eurekaclient</artifactId>
+	<artifactId>eurekaclient</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>eurekaclient</name>
 	<description>come.eurekaclient</description>
+	<packaging>jar</packaging>
 
 	<properties>
 		<java.version>1.8</java.version>
